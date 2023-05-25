@@ -1,0 +1,21 @@
+description: RF signal I/Q interface
+github_branch: RFIQINT01B
+github_branches:
+- RFIQINT01A
+- RFIQINT01B
+github_repo: RFIQINT01
+github_url: https://github.com/mlab-modules/RFIQINT01
+homepage: false
+image: doc/gen/img/RFIQINT01B-top.png
+images:
+- doc/gen/img/RFIQINT01B-top.png
+- doc/gen/img/RFIQINT01B-bottom.png
+- doc/src/img/RFIQINT01A.png
+- doc/src/img/RFIQINT01A_bottom.png
+- doc/src/img/RFIQINT01A_top.png
+- doc/gen/RFIQINT01B-schematic.svg
+issues: 0
+mark: 50
+mod_scheme: doc/gen/RFIQINT01B-schematic.pdf
+tags: []
+title: RFIQINT01
