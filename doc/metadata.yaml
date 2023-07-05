@@ -17,5 +17,12 @@ images:
 issues: 0
 mark: 50
 mod_scheme: doc/gen/RFIQINT01B-schematic.pdf
-tags: []
+tags:
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: RFIQINT01
